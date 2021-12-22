@@ -12,9 +12,11 @@ JavaBasic Java 11 初階
   </li>
   <li>
     第四堂課程範例：<a href="https://github.com/vincenttuan/20211213-JavaBasic/tree/main/session4">session 4</a>
+    訂於 2021/12/24 開放連結
   </li>
   <li>
     第五堂課程範例：<a href="https://github.com/vincenttuan/20211213-JavaBasic/tree/main/session5">session 5</a>
+    訂於 2021/12/27 開放連結
   </li>
 </ul>
 
